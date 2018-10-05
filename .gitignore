@@ -1,0 +1,7 @@
+*.lock
+*.log
+node_modules
+lib
+.npmrc
+*.zip
+*.tgz

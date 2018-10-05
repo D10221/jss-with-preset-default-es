@@ -1,0 +1,21 @@
+{
+  "name": "@australis/jss-with-preset-default",
+  "description": "re-package jss & jss-preset-default for browser modules",
+  "author": "d10221 <d10221@australis-technica.com> (https://github.com/d10221)",
+  "version": "9.8.7-1",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jss": "9.8.7",
+    "jss-preset-default": "^4.5.0",
+    "rollup-plugin-commonjs": "^9.1.8",
+    "rollup-plugin-node-resolve": "^3.4.0"
+  },
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "build": "rollup -c"
+  }
+}
