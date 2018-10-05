@@ -1,5 +1,5 @@
 {
-  "name": "@australis/jss-with-preset-default",
+  "name": "@australis/jss-with-preset-default-es",
   "description": "re-package jss & jss-preset-default for browser modules",
   "author": "d10221 <d10221@australis-technica.com> (https://github.com/d10221)",
   "version": "9.8.7-1",
